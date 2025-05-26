@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==5.2.1
+django-extensions==4.1
+djangorestframework==3.16.0
+extensions==0.4
+Pygments==2.19.1
+sqlparse==0.5.3
